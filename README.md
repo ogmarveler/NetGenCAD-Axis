@@ -5,7 +5,7 @@ Welcome to the NetSCAD Axis Guide! This tutorial covers the basics of defining a
 ######
 #### Other NetSCAD Projects
 If you're looking for custom object design and modeling tools, check out the NetSCAD-Tools repository.
-* **NetSCAD-Tools:** [NetSCAD-Tools](https://github.com/ogmarveler/NetSCAD-Tools)
+* **NetSCAD-Tools:** [Github](https://github.com/ogmarveler/NetSCAD-Tools)
 ###### 
 #### Prerequisites
 * **You need to have the following installed:** [OpenSCAD](https://openscad.org/downloads.html)
