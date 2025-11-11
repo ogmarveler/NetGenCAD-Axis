@@ -23,6 +23,7 @@ Varying axes of different sizes, measurement types, colors, and combinations of 
 The Custom Axes Builder has 3 main visual sections: Custom Axes Builder, Generated Axes, and SCAD Output. The output of a newly created axis will show up below the SCAD Output. This shows the total cubic size, as well as the Calling Method to use within your OpenSCAD's project file. In the list to the right of the custom axis settings, you will see the newly created axis, along with axes that have been previously created. **Both ascending and descending sorting are possible, as well as sorting by multiple categories (shift + select).**
 ###### 
 ![AxesUsageGuide](https://github.com/ogmarveler/NetSCAD/blob/25f80b909ac1837b3adb92b88e1d9d3ce63d0e2c/NetScad.UI/NetScad.UI/Assets/Images/axesUsageGuide.png)
+![Imperial Axis](NetScad.Axis/Images/oscadAxis_imperial.PNG)
 ###### 
 #### Setting Inputs for New Axis
 | Steps                                                                         | Requirements / Options                  | Default Value |
