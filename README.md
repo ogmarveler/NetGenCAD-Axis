@@ -1,15 +1,15 @@
-# <img src="https://github.com/ogmarveler/NetSCAD/blob/25f80b909ac1837b3adb92b88e1d9d3ce63d0e2c/NetScad.UI/NetScad.UI/Assets/Images/logo-netscad.png" alt="NetSCAD logo" height="30" width="30"> NetSCAD Axis
+# <img src="NetScad.UI/NetScad.UI/Assets/Images/logo.png" height="30" width="30"> NetGenCAD Axis
 ###### 
 #### Description
-Welcome to the NetSCAD Axis Guide! This tutorial covers the basics of defining and generating custom axes used in OpenSCAD, a solid 3D CAD modeler. This project aims to simplify the process of creating complex 3D models by providing reusable components and utilities. Currently, it includes automating the creation of custom Imperial and Metric axes. This allows for more precise modeling used in 3D printing.
+This tutorial covers the basics of defining and generating custom axes used in OpenSCAD, a solid 3D CAD modeler. This project aims to simplify the process of creating complex 3D models by providing reusable components and utilities. Currently, it includes automating the creation of custom Imperial and Metric axes. This allows for more precise modeling used in 3D printing.
 ######
-#### Other NetSCAD Projects
-If you're looking for custom object design and modeling tools, check out the NetSCAD-Tools repository.
-* **NetSCAD-Tools:** [Github](https://github.com/ogmarveler/NetSCAD-Tools)
+#### Other NetGenCAD Projects
+If you're looking for custom object design and modeling tools, check out the NetGenCAD repository.
+* **NetGenCAD:** [Github](https://github.com/ogmarveler/NetSCAD-Tools)
 ###### 
 #### Prerequisites
 * **You need to have the following installed:** [OpenSCAD](https://openscad.org/downloads.html)
-* **Download the latest release of NetSCAD-Axis:** [NetSCAD-Axis](https://github.com/ogmarveler/NetSCAD/releases/tag/netscad_01_1)
+* **Download the latest release of NetGenCAD Axis:** [NetGenCAD Axis](https://github.com/ogmarveler/NetSCAD/releases/tag/netscad_01_1)
 ###### 
 #### Types of Measurements
 Varying axes of different sizes, measurement types, colors, and combinations of both metric and imperial measurements can be applied within the same SCAD project. Axes are managed in an aggregate SCAD file and are called as modules within your SCAD project. The app manages updates to existing axes as well as provides the ability for multiple axis types to be used in your project. Axis increments are as follows:
